@@ -1,4 +1,4 @@
-![image](https://github.com/Earth123456789/Earth123456789/assets/109953632/ee8896a2-386b-4756-91f5-215c6025c0ff)### Hi there 👋
+### Hi there 👋
 
 <div id="badges">
   <a href="your-linkedin-URL">
