@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<div id="header" align="center">
+  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://app.recraft.ai/community?imageId=54f9b528-278d-49bd-82b3-10efac2370fd)" width="100"/>
+</div>
+
 ### ABOUT ME 
 I'm Vipat Choknantawong, also known as Earth. A passionate and creative software developer who loves to explore new technologies and bring ideas to life. Here's a glimpse of my coding world.
 
