@@ -9,16 +9,6 @@
 </a>
 </div>
 
-**Earth123456789/Earth123456789** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🌱 I’m currently learning new concepts in OOP and improving my skills in JavaScript.
-- 🤔 I’m looking for help with integrating Firebase into my projects.
-- 💬 Ask me about anything related to web development or programming in general.
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love exploring new technologies and experimenting with creative coding!
-
 ### Languages and Tools :
 
 <div>
