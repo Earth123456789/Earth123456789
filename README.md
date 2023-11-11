@@ -23,7 +23,7 @@ I'm Vipat Choknantawong, also known as Earth. A passionate and creative software
 ### 👨‍💻 Languages and Tools :
 
 <div>
-  <img src="https://banner2.cleanpng.com/20190623/uxe/kisspng-logo-java-development-kit-portable-network-graphic-5d0f25d6871765.6875406615612738145533.jpg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/2048px-HTML5_Badge.svg.png" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
