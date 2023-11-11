@@ -2,14 +2,11 @@
 
 <div id="badges">
   <a href="your-linkedin-URL">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/2021_Facebook_icon.svg/2048px-2021_Facebook_icon.svg.png" />
-  </a>
-  <a href="your-youtube-URL">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" alt="Youtube Badge"/>
-  </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/2021_Facebook_icon.svg/2048px-2021_Facebook_icon.svg.png" width="50" height="50" />
+</a>
+<a href="your-youtube-URL">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" width="50" height="50" />
+</a>
 </div>
 
 **Earth123456789/Earth123456789** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
