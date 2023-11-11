@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 <div id="badges">
-  <a href="your-linkedin-URL">
+  <a href="https://www.facebook.com/vipat.choknantawong/">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/2021_Facebook_icon.svg/2048px-2021_Facebook_icon.svg.png" width="50" height="50" />
 </a>
-<a href="your-youtube-URL">
+<a href="https://instagram.com/earth.chok?igshid=YzAwZjE1ZTI0Zg%3D%3D&utm_source=qr">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" width="50" height="50" />
 </a>
 </div>
@@ -22,3 +22,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+### :hammer_and_wrench: Languages and Tools :
