@@ -25,7 +25,7 @@ I'm Vipat Choknantawong, also known as Earth. A passionate and creative software
 <div>
   <img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" title="Java" alt="Java" width="50" height="50"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/2048px-HTML5_Badge.svg.png" title="HTML5" alt="HTML" width="50" height="50"/>&nbsp;
-  <img src="https://e7.pngegg.com/pngimages/893/87/png-clipart-web-development-html-cascading-style-sheets-css3-bootstrap-minimalist-resume-blue-angle.png"  title="CSS3" alt="CSS" width="50" height="50"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png"  title="CSS3" alt="CSS" width="50" height="50"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" title="JavaScript" alt="JavaScript" width="50" height="50"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/590px-Node.js_logo.svg.png" title="NodeJS" alt="NodeJS" width="50" height="50"/>&nbsp;
   <img src="https://1000logos.net/wp-content/uploads/2020/08/MySQL-Logo.png" title="MySQL"  alt="MySQL" width="50" height="50"/>&nbsp;
