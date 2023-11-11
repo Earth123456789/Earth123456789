@@ -35,3 +35,7 @@ I'm Vipat Choknantawong, also known as Earth. A passionate and creative software
 </div>
 
 Let's build something amazing together! Feel free to connect with me through the badges above or explore my projects on GitHub.
+
+### :fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
