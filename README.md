@@ -25,11 +25,12 @@ I'm Vipat Choknantawong, also known as Earth. A passionate and creative software
 <div>
   <img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/2048px-HTML5_Badge.svg.png" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://e7.pngegg.com/pngimages/893/87/png-clipart-web-development-html-cascading-style-sheets-css3-bootstrap-minimalist-resume-blue-angle.png"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/590px-Node.js_logo.svg.png" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://w7.pngwing.com/pngs/384/848/png-transparent-mysql-php-database-javascript-ajax-carnifex-blue-text-logo.png" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://p7.hiclipart.com/preview/747/798/387/mysql-database-web-development-computer-software-dolphin.jpg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" title="C" alt="C" width="40" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png" title="Bootstrap" alt="Bootsrap" width="40" height="40"/>&nbsp;
 </div>
 
 Let's build something amazing together! Feel free to connect with me through the badges above or explore my projects on GitHub.
