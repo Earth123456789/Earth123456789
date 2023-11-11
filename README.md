@@ -1,7 +1,12 @@
+
+Certainly! To make the "Top Langs" section appear on a new line, you can add a line break (<br>) before it. Here's the updated version:
+
+markdown
+Copy code
 ### Hi there 👋
 
 <div id="header" align="center">
-  <img src="https://media3.giphy.com/media/OZ1VAPExqf1G40bBAt/giphy.gif" width= "750"/>
+  <img src="https://media3.giphy.com/media/OZ1VAPExqf1G40bBAt/giphy.gif" width="750"/>
 </div>
 
 ### ABOUT ME 
@@ -37,5 +42,6 @@ I'm Vipat Choknantawong, also known as Earth. A passionate and creative software
 Let's build something amazing together! Feel free to connect with me through the badges above or explore my projects on GitHub.
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Earth123456789&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Earth123456789&theme=dark&background=000000)](https://git.io/streak-stats)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Earth123456789&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
