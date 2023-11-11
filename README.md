@@ -1,11 +1,11 @@
-### Hi there 👋
+![image](https://github.com/Earth123456789/Earth123456789/assets/109953632/ee8896a2-386b-4756-91f5-215c6025c0ff)### Hi there 👋
 
 <div id="badges">
   <a href="your-linkedin-URL">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/2021_Facebook_icon.svg/2048px-2021_Facebook_icon.svg.png" />
   </a>
   <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" alt="Youtube Badge"/>
   </a>
   <a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
