@@ -31,7 +31,7 @@ I'm Vipat Choknantawong, also known as Earth. A passionate and creative software
   <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" title="MySQL"  alt="MySQL" width="60" height="60"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" title="C" alt="C" width="50" height="50"/>&nbsp;
   <img src="https://www.thaiall.com/java/bootstrap-stack.png" title="Bootstrap" alt="Bootstrap" width="50" height="50"/>&nbsp;
-  <img src="https://i0.wp.com/iotbyhvm.ooo/wp-content/uploads/2019/01/expressjs.png?fit=872%2C472&ssl=1" title="ExpressJS" alt="ExpressJS" width="50" height="50"/>&nbsp;
+  <img src="https://miro.medium.com/v2/resize:fit:1400/1*i2fRBk3GsYLeUk_Rh7AzHw.png" title="ExpressJS" alt="ExpressJS" width="50" height="50"/>&nbsp;
 </div>
 
 Let's build something amazing together! Feel free to connect with me through the badges above or explore my projects on GitHub.
