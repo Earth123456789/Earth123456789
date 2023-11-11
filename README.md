@@ -1,6 +1,9 @@
 ### Hi there 👋
 
 ### ABOUT ME 
+I'm Vipat Choknantawong, also known as Earth. A passionate and creative software developer who loves to explore new technologies and bring ideas to life. Here's a glimpse of my coding world.
+
+### CONTACT
 <div id="badges">
   <a href="https://www.facebook.com/vipat.choknantawong/">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
@@ -12,8 +15,6 @@
     <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
 </div>
-
-I'm Vipat Choknantawong, also known as Earth. A passionate and creative software developer who loves to explore new technologies and bring ideas to life. Here's a glimpse of my coding world.
 
 ### 👨‍💻 Languages and Tools :
 
