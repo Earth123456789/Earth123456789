@@ -1,12 +1,15 @@
 ### Hi there 👋
 
 <div id="badges">
-<a href="https://www.facebook.com/vipat.choknantawong/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/2021_Facebook_icon.svg/2048px-2021_Facebook_icon.svg.png" width="50" height="50" />
-</a>
-<a href="https://instagram.com/earth.chok?igshid=YzAwZjE1ZTI0Zg%3D%3D&utm_source=qr">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" width="50" height="50" />
-</a>
+  <a href="https://www.facebook.com/vipat.choknantawong/">
+    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+  </a>
+  <a href="https://www.youtube.com/channel/UC4JHWKeRrxO-ciSfuL-AOmQ">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="https://instagram.com/earth.chok?igshid=YzAwZjE1ZTI0Zg%3D%3D&utm_source=qr">
+    <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
 </div>
 
 ### Languages and Tools :
