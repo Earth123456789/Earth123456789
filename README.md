@@ -36,7 +36,6 @@ I'm Vipat Choknantawong, also known as Earth. A passionate and creative software
 
 Let's build something amazing together! Feel free to connect with me through the badges above or explore my projects on GitHub.
 
-<div align="center">
 
 ### :fire: My Stats :
 
@@ -46,5 +45,5 @@ Let's build something amazing together! Feel free to connect with me through the
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Earth123456789&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
-</div>
+
 
