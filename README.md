@@ -29,12 +29,19 @@ I'm Vipat Choknantawong, also known as Earth. A passionate and creative software
 </a>
 
 ### Badges
-<div align="center>
-<b>My GitHub Stats</b>
+<div align="center">
+  <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Earth123456789"><img src="https://github-readme-stats.vercel.app/api?username=Earth123456789&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&show_icons=true" alt="Earth123456789's GitHub stats" /></a>
+  <a href="http://www.github.com/Earth123456789">
+    <img src="https://github-readme-stats.vercel.app/api?username=Earth123456789&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&show_icons=true" alt="Earth123456789's GitHub stats" />
+  </a>
 
-<a href="http://www.github.com/Earth123456789"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Earth123456789&stroke=ffffff&background=1c1917&ring=f97316&fire=f97316&currStreakNum=ffffff&currStreakLabel=f97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+  <a href="http://www.github.com/Earth123456789">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Earth123456789&stroke=ffffff&background=1c1917&ring=f97316&fire=f97316&currStreakNum=ffffff&currStreakLabel=f97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+  </a>
 
-<a href="https://github.com/Earth123456789" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Earth123456789&langs_count=10&title_color=f97316&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+  <a href="https://github.com/Earth123456789">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Earth123456789&langs_count=10&title_color=f97316&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
+  </a>
 </div>
+
