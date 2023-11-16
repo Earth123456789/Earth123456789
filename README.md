@@ -21,6 +21,9 @@ I'm Vipat Choknantawong, also known as Earth. A passionate and creative software
 <a href="https://instagram.com/earth.chok?igshid=YzAwZjE1ZTI0Zg%3D%3D&utm_source=qr">
     <img src="https://img.shields.io/badge/Instagram-deeppink?style=for-the-badge&logo=instagram&logoColor=black" alt="Instagram Badge"/>
 </a>
+  <a href="https://www.facebook.com/vipat.choknantawong/">
+    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+  </a>
 
 ### Badges
 
