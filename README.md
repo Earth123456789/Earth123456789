@@ -1,3 +1,6 @@
+[Ÿ HŸPE]: https://yhype.me
+[GitHub Profile Views Counter]: https://github.com/earth123456789/github-profile-views-counter
+
 <div id="header" align="center">
   <img src="https://media3.giphy.com/media/OZ1VAPExqf1G40bBAt/giphy.gif" width="750"/>
 </div>
